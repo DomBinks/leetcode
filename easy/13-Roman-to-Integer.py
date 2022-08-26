@@ -1,4 +1,6 @@
 def romanToInt(s: str) -> int:
+    """Calculates the numerical value of a string s of roman numerals"""
+
     # Store numerical values of the numerals 
     values = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
     length = len(s) # Cache length of the input string
