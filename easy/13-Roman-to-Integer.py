@@ -1,11 +1,13 @@
 def romanToInt(s: str) -> int:
+    # Store numerical values of the numerals 
     values = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
-    length = len(s)
+    length = len(s) # Cache length of the input string
 
     total = 0
     for i in range(length):
-        current = values[s[i]]
+        current = values[s[i]] # Value of current numeral
 
+        # Check to see if the next numeral is a greater value
         if i < length - 1 and current < values[s[i+1]]:
             total -= current 
         
