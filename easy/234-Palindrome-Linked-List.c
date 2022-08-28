@@ -7,7 +7,6 @@ struct ListNode {
      struct ListNode *next;
  };
 
-// Returns the length of the list with first element head
 int listLength(struct ListNode* head)
 {
     struct ListNode* current = head;
@@ -26,6 +25,34 @@ bool isPalindrome(struct ListNode* head)
 {
     int length = listLength(head);
     int midpoint = length / 2;
+
+    int *firstHalf = calloc(midpoint, sizeof(int));
+    struct ListNode* current = head;
+    for(int i = 0; i < midpoint; i++)
+    {
+        firstHalf[i] = current->val;
+        current = current->next;
+    }
+
+    if(length % 2 != 0)
+    {
+        current = current->next;
+    }
+
+    for(int i = 0; i < midpoint; i++)
+    {
+        printf("%d %d\n", current->val, firstHalf[midpoint - i - 1]);
+        if(current->val != firstHalf[midpoint - i - 1])
+        {
+            free(firstHalf);
+            return false;
+        }
+
+        current = current->next;
+    }
+
+    free(firstHalf);
+    return true;
 }
 
 int main(int argc, char *argv)
@@ -42,7 +69,14 @@ int main(int argc, char *argv)
     b.next = &c;
     c.next = &d;
 
-    printf("%d\n", isPalindrome(&a));
+    if(isPalindrome(&a) == true)
+    {
+        printf("True\n");
+    }
+    else
+    {
+        printf("False\n");
+    }
 
     return 0;
 }
