@@ -1,3 +1,5 @@
+#include <stdlib.h>
+
 // Structure for linked list nodes 
 struct ListNode {
      int val;
