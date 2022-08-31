@@ -1,6 +1,5 @@
 #include <stdbool.h>
 #include <stdlib.h>
-#include <stdio.h>
 
 // Structure for linked list nodes 
 struct ListNode {
@@ -61,31 +60,4 @@ bool isPalindrome(struct ListNode* head)
 
     free(firstHalf);
     return true;
-}
-
-// Test code
-int main(int argc, char *argv)
-{
-    struct ListNode a = {0};
-    a.val = 1;
-    struct ListNode b = {0};
-    b.val = 2;
-    struct ListNode c = {0};
-    c.val = 3;
-    struct ListNode d = {0};
-    d.val = 4;
-    a.next = &b;
-    b.next = &c;
-    c.next = &d;
-
-    if(isPalindrome(&a) == true)
-    {
-        printf("True\n");
-    }
-    else
-    {
-        printf("False\n");
-    }
-
-    return 0;
 }

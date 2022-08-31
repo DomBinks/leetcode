@@ -1,170 +1,135 @@
 #include <stdlib.h>
-#include <stdio.h>
 
-int max(int a, int b)
-{
-    return a > b ? a : b;
-
-}
 struct ListNode {
     int val;
     struct ListNode *next;
 };
 
-// Returns the length of the linked list
-int listLength(struct ListNode* head)
-{
-    struct ListNode* current = head;
-    int length = 0;
+// Adds two numbers together provided as linked lists of digits in
+// reverse order, returning the answer as a linked list in reverse
+// order
+struct ListNode* addTwoNumbers(struct ListNode* l1, \
+    struct ListNode* l2){
+    // Track the current element being looked at from the input lists
+    struct ListNode* elem1 = l1;
+    struct ListNode* elem2 = l2;
 
-    while(current != NULL)
+    // Store the first, penultimate, and last node
+    // Allocating memory for the first node
+    struct ListNode* start = calloc(1, sizeof(struct ListNode));
+    struct ListNode* prev;
+    struct ListNode* end = start;
+
+    // While there is a node left in both lists
+    while(elem1 != NULL && elem2 != NULL)
     {
-        length++;
-        current = current->next;
-    }
-
-    return length;
-}
-
-struct ListNode* sumTwoNumbers(struct ListNode* l1, struct ListNode* l2, struct ListNode* carry)
-{
-    struct ListNode* a;
-    struct ListNode* b;
-    int sum = l1->val + l2->val;
-
-    if(carry != NULL && carry->val > 9)
-    {
-        sum++;
-        printf("Used carry");
-
-        struct ListNode* temp = carry;
-        carry = carry->next;
-        free(carry);
-    }
-    printf("l1: %d, l2:%d\n", l1->val, l2->val);
-    printf("sum %d\n", sum);
-
-    if(sum > 9)
-    {
-        a = calloc(1, sizeof(struct ListNode));
-        b = calloc(1, sizeof(struct ListNode));
-
-        a->val = 999;
-        a->next = b;
-        b->val = sum - 10;
-        b->next = carry;
-        printf("a:%d b:%d\n", a->val, b->val);
-    }
-    else
-    {
-        a = calloc(1, sizeof(struct ListNode));
-        a->val = sum;
-        a->next = carry;
-        printf("a:%d\n", a->val);
-    }
-
-    return a;
-}
-
-
-struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2){
-
-    int length1 = listLength(l1);
-    int length2 = listLength(l2);
-    struct ListNode* end = NULL;
-
-    while(length1 > 0 && length2 > 0)
-    {
-        struct ListNode* elem1 = l1;
-        struct ListNode* elem2 = l2;        
-
-        for(int i = 1; i < max(length1, length2); i++)
+        int sum = elem1->val + elem2->val; // Find the sum
+        if(end->val > 9)
         {
-            if(length1 < i)
-            {
-                elem1 = elem1->next;
-            }
-            if(length2 < i)
-            {
-                elem2 = elem2->next;
-            }
-        }
-        printf("values: a: %d b: %d\n", elem1->val, elem2->val);
-
-        end = sumTwoNumbers(elem1, elem2, end);
-
-        length1--;
-        length2--;
-    }
-
-    while(length1 > 0)
-    {
-        struct ListNode* elem1 = l1;
-
-        for(int i = 1; i < length1; i++)
-        {
-            elem1 = elem1->next;
+            sum++; // Add 1 if there is a carry
         }
 
-        if(elem1->next != NULL && (elem1->next)->val > 9)
+        // Allocate memory for the next node in the answer list
+        end->next = calloc(1, sizeof(struct ListNode));
+        if(sum > 9) // If there is a carry
         {
-            elem1->val++; 
-            struct ListNode* temp = elem1->next;
-            elem1->next = (elem1->next)->next; 
-            free(temp);
+            // Decrease the sum by 10, leaving just the single lower
+            // digit
+            end->val = sum - 10;
+            // Set the value of the next node to > 9 to indicate a
+            // carry
+            end->next->val = 99;
+        }
+        else // If there is no carry
+        {
+            // Set the value of the current node to the sum digit
+            end->val = sum;
         }
 
-        length1--;
+        // Move the pointers along by one
+        prev = end;
+        end = end->next;
+        elem1 = elem1->next;
+        elem2 = elem2->next;
     }
-    while(length2 > 0)
+
+    // While there are only nodes left in the first list
+    while(elem1 != NULL)
     {
-        struct ListNode* elem2 = l2;
+        int sum = elem1->val; // Store the current node's value
 
-        for(int i = 1; i < length2; i++)
+        if(end->val > 9)
         {
-            elem2 = elem2->next;
+            sum++; // Add 1 if there is a carry
         }
 
-        if(elem2->next != NULL && (elem2->next)->val > 9)
+        // Allocate memory for the next node in the answer list
+        end->next = calloc(1, sizeof(struct ListNode));
+        if(sum > 9) // If there is a carry
         {
-            elem2->val++; 
-            struct ListNode* temp = elem2->next;
-            elem2->next = (elem2->next)->next; 
-            free(temp);
+            // Decrease the sum by 10, leaving just the single lower
+            // digit
+            end->val = sum - 10;
+            // Set the value of the next node to > 9 to indicate a
+            // carry
+            end->next->val = 99;
+        }
+        else // If there is no carry
+        {
+            // Set the value of the current node to the sum digit
+            end->val = sum;
         }
 
-        length2--;
+        // Move the pointers along by one
+        prev = end;
+        end = end->next;
+        elem1 = elem1->next;
     }
 
-    return end;
-}
-
-int main(int argc, char **argv)
-{
-    struct ListNode* a1 = calloc(1, sizeof(struct ListNode));
-    struct ListNode* a2 = calloc(1, sizeof(struct ListNode));
-    struct ListNode* a3 = calloc(1, sizeof(struct ListNode));
-    struct ListNode* b1 = calloc(1, sizeof(struct ListNode));
-    struct ListNode* b2 = calloc(1, sizeof(struct ListNode));
-
-    a1->val = 1;
-    a1->next = a2;
-    a2->val = 2;
-    a2->next = a3;
-    a3->val = 6;
-    a3->next = NULL;
-    b1->val = 4;
-    b1->next = b2;
-    b2->val = 5;
-    b2->next = NULL;
-
-    struct ListNode* ans = addTwoNumbers(a1, b1);
-
-    printf("\nAnswer:\n");
-    while(ans != NULL)
+    // While there are only nodes left in the second list
+    while(elem2 != NULL)
     {
-        printf("%d\n", ans->val);
-        ans = ans->next;
+        int sum = elem2->val; // Store the current node's value
+
+        if(end->val > 9)
+        {
+            sum++; // Add 1 if there is a carry
+        }
+
+        // Allocate memory for the next node in the answer list
+        end->next = calloc(1, sizeof(struct ListNode));
+        if(sum > 9) // If there is a carry
+        {
+            // Decrease the sum by 10, leaving just the single lower
+            // digit
+            end->val = sum - 10;
+            // Set the value of the next node to > 9 to indicate a
+            // carry
+            end->next->val = 99;
+        }
+        else // If there is no carry
+        {
+            // Set the value of the current node to the sum digit
+            end->val = sum;
+        }
+
+        // Move the pointers along by one
+        prev = end;
+        end = end->next;
+        elem2 = elem2->next; 
     }
-    return 0;
+
+    // Remove the last node if its value is a 0
+    if(end->val == 0)
+    {
+        prev->next = NULL;
+    }
+    // Set the last node's value to 1 if there is a carry
+    if(end->val == 99)
+    {
+        end->val = 1;
+    }
+
+    // Return start which points to the first node in the answer list
+    return start; 
 }
