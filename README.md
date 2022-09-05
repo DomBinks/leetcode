@@ -4,6 +4,7 @@ This repository contains my solutions to various LeetCode problems.
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
+| 2022-09-05 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python(Naive)](./easy/1-Two-Sum-Naive.py) | |
 | 2022-09-05 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [C(Naive)](./medium/3-Longest-Substring-Without-Repeating-Characters-Naive.c) <br> [C(Better)](./medium/3-Longest-Substring-Without-Repeating-Characters-Better.c) | Sliding Window Technique |
 | 2022-09-04 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Python](./easy/66-Plus-One.py) <br> [Haskell](./easy/66-Plus-One.hs) | |
 | 2022-09-03 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Python](./easy/9-Palindrome-Number.py) <br> [Haskell](./easy/9-Palindrome-Number.hs) | |
