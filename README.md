@@ -4,7 +4,8 @@ This repository contains my solutions to various LeetCode problems.
 
 | Date | Number | Name | Difficulty | Solution |
 | ---- | ------ | ---- | ---------- | -------- |
-| 2022-09-04 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | [Python](./easy/66-Plus-One.py) <br> [Haskell](./easy/66-Plus-One.hs) |
+| 2022-09-05 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [C(Naive)](./medium/3-Longest-Substring-Without-Repeating-Characters-Naive.c) <br> [C(Better)](./medium/3-Longest-Substring-Without-Repeating-Characters-Better.c) |
+| 2022-09-04 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Python](./easy/66-Plus-One.py) <br> [Haskell](./easy/66-Plus-One.hs) |
 | 2022-09-03 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Python](./easy/9-Palindrome-Number.py) <br> [Haskell](./easy/9-Palindrome-Number.hs) |
 | 2022-09-01 | 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | Easy | [Python](./easy/1337-The-K-Weakest-Rows-in-a-Matrix.py) |
 | 2022-09-01 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Easy | [C](./easy/1342-Number-of-Steps-to-Reduce-a-Number-to-Zero.c) <br> [Haskell](./easy/1342-Number-of-Steps-to-Reduce-a-Number-to-Zero.hs) |
