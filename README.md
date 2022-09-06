@@ -1,6 +1,12 @@
 # leetcode
 This repository contains my solutions to various LeetCode problems.
-<br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)
+<br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
+<br>
+### Problems solved: 14
+##### Easy: 11
+##### Medium: 2
+##### Hard: 1
+<br>
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
