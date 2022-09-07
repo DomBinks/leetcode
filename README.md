@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 16
+### Problems solved: 17
 ##### Easy: 12
-##### Medium: 3
+##### Medium: 4
 ##### Hard: 1
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
+| 2022-09-07 | 50 | [Pow(x,n)](https://leetcode.com/problems/powx-n/) | Medium | [C](./medium/50-Pow(x%2Cn).c) | |
 | 2022-09-07 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [C](./easy/206-Reverse-Linked-List.c) | |
 | 2022-09-06 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [C(Naive)](./medium/5-Longest-Palindromic-Substring-Slow.c) | |
 | 2022-09-06 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/) | Hard | [C(Naive)](./hard/4-Median-of-Two-Sorted-Arrays.c) | |
