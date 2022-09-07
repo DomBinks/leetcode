@@ -2,16 +2,17 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 15
-##### Easy: 11
+### Problems solved: 16
+##### Easy: 12
 ##### Medium: 3
 ##### Hard: 1
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
-| 2022-09-06 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [C(Naive)](easy/../medium/5-Longest-Palindromic-Substring-Slow.c) | |
-| 2022-09-06 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/) | Hard | [C(Naive)](hard/4-Median-of-Two-Sorted-Arrays.c) | |
+| 2022-09-07 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [C](./easy/206-Reverse-Linked-List.c) | |
+| 2022-09-06 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [C(Naive)](./medium/5-Longest-Palindromic-Substring-Slow.c) | |
+| 2022-09-06 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/) | Hard | [C(Naive)](./hard/4-Median-of-Two-Sorted-Arrays.c) | |
 | 2022-09-05 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python(Naive)](./easy/1-Two-Sum-Naive.py) <br> [Python(Better)](./easy/1-Two-Sum-Better.py) | |
 | 2022-09-05 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [C(Naive)](./medium/3-Longest-Substring-Without-Repeating-Characters-Naive.c) <br> [C(Better)](./medium/3-Longest-Substring-Without-Repeating-Characters-Better.c) | Sliding Window Technique |
 | 2022-09-04 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Python](./easy/66-Plus-One.py) <br> [Haskell](./easy/66-Plus-One.hs) | |
