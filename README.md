@@ -10,6 +10,7 @@ This repository contains my solutions to various LeetCode problems.
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
+| 2022-09-08 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | Medium | [C(Naive)](./medium/807-Max-Increase-to-Keep-City-Skyline-Naive.c) | |
 | 2022-09-07 | 50 | [Pow(x,n)](https://leetcode.com/problems/powx-n/) | Medium | [C](./medium/50-Pow(x%2Cn).c) | |
 | 2022-09-07 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [C](./easy/206-Reverse-Linked-List.c) | |
 | 2022-09-06 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [C(Naive)](./medium/5-Longest-Palindromic-Substring-Slow.c) | |
