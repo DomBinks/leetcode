@@ -2,9 +2,9 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 17
+### Problems solved: 18
 ##### Easy: 12
-##### Medium: 4
+##### Medium: 5
 ##### Hard: 1
 <br>
 
