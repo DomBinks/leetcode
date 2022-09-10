@@ -2,16 +2,17 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 19
-##### Easy: 13
+### Problems solved: 20
+##### Easy: 14
 ##### Medium: 5
 ##### Hard: 1
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
-| 2022-09-09 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message) | Easy | [Python](./easy/2325-Decode-the-Message.py) | |
-| 2022-09-08 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | Medium | [C(Naive)](./medium/807-Max-Increase-to-Keep-City-Skyline-Naive.c) | |
+| 2022-09-10 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Python](./easy/20-Valid-Parentheses.py) | |
+| 2022-09-09 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/) | Easy | [Python](./easy/2325-Decode-the-Message.py) | |
+| 2022-09-08 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | Medium | [C(Naive)](./medium/807-Max-Increase-to-Keep-City-Skyline-Naive.c) | |
 | 2022-09-07 | 50 | [Pow(x,n)](https://leetcode.com/problems/powx-n/) | Medium | [C](./medium/50-Pow(x%2Cn).c) | |
 | 2022-09-07 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [C](./easy/206-Reverse-Linked-List.c) | |
 | 2022-09-06 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [C(Naive)](./medium/5-Longest-Palindromic-Substring-Slow.c) | |
