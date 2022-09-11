@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 19
-##### Easy: 13
+### Problems solved: 20
+##### Easy: 14
 ##### Medium: 5
 ##### Hard: 1
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
+| 2022-09-11 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | Easy | [C](./easy/1221-Split-a-String-in-Balanced-Strings.c) | |
 | 2022-09-09 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message) | Easy | [Python](./easy/2325-Decode-the-Message.py) | |
 | 2022-09-08 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | Medium | [C(Naive)](./medium/807-Max-Increase-to-Keep-City-Skyline-Naive.c) | |
 | 2022-09-07 | 50 | [Pow(x,n)](https://leetcode.com/problems/powx-n/) | Medium | [C](./medium/50-Pow(x%2Cn).c) | |
