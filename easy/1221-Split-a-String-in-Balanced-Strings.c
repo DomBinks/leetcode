@@ -7,21 +7,13 @@ int balancedStringSplit(char *s){
 
     while(*pointer != '\0') // While the pointer is on the string
     {
-        if(*pointer == 'L')
-        {
-            ls++;
-        }
-        if(*pointer == 'R')
-        {
-            rs++;
-        }
+        *pointer == 'L' ? ls++ : rs++; // Increment correct counter
 
         if(ls == rs) // If the current substring is balanced
         {
             out++; // Increment the output
             ls = 0; // Reset the values
             rs = 0;
-
         }
 
         pointer++; // Move the pointer to the next character
