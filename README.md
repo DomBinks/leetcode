@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 21
+### Problems solved: 22
 ##### Easy: 15
-##### Medium: 5
+##### Medium: 6
 ##### Hard: 1
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
+| 2022-09-12 | 948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | Medium | [Python(Naive)](./medium/948-Bag-of-Tokens-Naive.py) | |
 | 2022-09-11 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | Easy | [C](./easy/1221-Split-a-String-in-Balanced-Strings.c) <br> [Haskell](./easy/1221-Split-a-String-in-Balanced-Strings.hs) | |
 | 2022-09-10 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Python](./easy/20-Valid-Parentheses.py) | |
 | 2022-09-09 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/) | Easy | [Python](./easy/2325-Decode-the-Message.py) | |
