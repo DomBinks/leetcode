@@ -1,44 +1,51 @@
+// Return whether the provided bytes are a valid UTF-8 encoding
 bool validUtf8(int* data, int dataSize){
-    int current = 0;
-    while(current < dataSize)
+    int dataIndex = 0; // Current byte being looked at
+    while(dataIndex < dataSize) // While there are bytes left
     {
-        if(data[current] < 128) 
+        int dataCurrent = data[dataIndex]; // Store the current byte
+
+        if(dataCurrent < 128) // If it's a 1-byte character (starts with a 0)
         {
-            current++;
+            dataIndex++; // Move the index to the next byte
             continue;
         }
-        else if(data[current] > 128 && data[current] < 192 || data[current] == 255)
+        // If the byte is < 11000000 or > 11101111 (out of valid range)
+        else if(dataCurrent < 192 || dataCurrent > 247)
         {
             return false;
         }
-        else
+        else // If it's an n-byte character where n > 1
         {
-            int length = 0;
-            int col = 128;
-            while(data[current] - col >= 0)
-            {
-               data[0] -= col;
-               length++;
-               col /= 2;
-            }
+            int length; // Number of bytes that compose the character
+            if(dataCurrent >= 240) // If the byte is >= 11110000
+                length = 4;
+            else if(dataCurrent >= 224) // If the byte is >= 11100000
+                length = 3;
+            else // If the byte is >= 11000000
+                length = 2;
 
-            if(length > dataSize)
+            // If the bytes that compose the character are more than the bytes
+            // left
+            if(length > dataSize - dataIndex)
             {
                 return false;
             }
 
-            int counter = 1;
-            while(counter < length)
+            int counter = 1; // Tracks the current byte of the current character
+            while(counter < length) // Loop over the rest of the bytes
             {
-                if(data[current+counter] < 128 || data[current+counter] > 191)
+                int dataCounter = data[dataIndex+counter]; // Get the next byte
+                // If the byte doesn't start with 10
+                if(dataCounter < 128 || dataCounter > 191)
                 {
                     return false;
                 }
 
-                counter++;
+                counter++; // Move to the next byte
             }
 
-            current += length;
+            dataIndex += length; // Move the index to the next character
         }
     }
 
