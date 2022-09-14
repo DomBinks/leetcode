@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 23
+### Problems solved: 24
 ##### Easy: 15
-##### Medium: 7
+##### Medium: 8
 ##### Hard: 1
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
+| 2022-09-14 | 1457 | [Pseudo-Palindrommic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | Medium | [C](./easy/1457/1457-Pseudo-Palindromic-Paths-in-a-Binary-Tree.c) | DFS |
 | 2022-09-13 | 393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | Medium | [C](./medium/393-UTF-8-Validation.c) | |
 | 2022-09-12 | 948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | Medium | [Python(Naive)](./medium/948-Bag-of-Tokens-Naive.py) | |
 | 2022-09-11 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | Easy | [C](./easy/1221-Split-a-String-in-Balanced-Strings.c) <br> [Haskell](./easy/1221-Split-a-String-in-Balanced-Strings.hs) | |
