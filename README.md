@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 24
+### Problems solved: 25
 ##### Easy: 15
-##### Medium: 8
+##### Medium: 9
 ##### Hard: 1
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
+| 2022-09-15 | 2007 | [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) | Medium | [C++(Naive)](./medium/2007-Find-Original-Array-From-Doubled-Array-Naive.cpp) <br> [C++(Example Solution)](./medium/2007-Find-Original-Array-From-Doubled-Array-Example.cpp)| |
 | 2022-09-14 | 1457 | [Pseudo-Palindrommic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | Medium | [C](./medium/1457-Pseudo-Palindromic-Paths-in-a-Binary-Tree.c) | DFS |
 | 2022-09-13 | 393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | Medium | [C](./medium/393-UTF-8-Validation.c) | |
 | 2022-09-12 | 948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | Medium | [Python(Naive)](./medium/948-Bag-of-Tokens-Naive.py) | |
