@@ -10,7 +10,7 @@ This repository contains my solutions to various LeetCode problems.
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
-| 2022-09-18 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [C](./easy/21-Merge-Two-Sorted-Lists.c) | |
+| 2022-09-18 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [C(Naive)](./easy/21-Merge-Two-Sorted-Lists-Naive.c) | |
 | 2022-09-17 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Python](./easy/58-Length-of-Last-Word.py) | |
 | 2022-09-15 | 2007 | [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) | Medium | [C++(Naive)](./medium/2007-Find-Original-Array-From-Doubled-Array-Naive.cpp) <br> [C++(Example Solution)](https://leetcode.com/problems/find-original-array-from-doubled-array/discuss/2581075/Easy-C%2B%2Boror-using-queue-oror-94-less-memory-oror-Explained-oror-Beginner-Friendly)| |
 | 2022-09-14 | 1457 | [Pseudo-Palindrommic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | Medium | [C](./medium/1457-Pseudo-Palindromic-Paths-in-a-Binary-Tree.c) | DFS |
