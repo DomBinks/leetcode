@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 28
-##### Easy: 18
+### Problems solved: 29
+##### Easy: 19
 ##### Medium: 9
 ##### Hard: 1
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
+| 2022-09-20 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [C++](./easy/70-Climbing-Stairs.cpp) | |
 | 2022-09-19 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [C++(Naive)](./easy/14-Longest-Common-Prefix-Naive.cpp) | |
 | 2022-09-18 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [C(Naive)](./easy/21-Merge-Two-Sorted-Lists-Naive.c) | |
 | 2022-09-17 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Python](./easy/58-Length-of-Last-Word.py) | |
@@ -23,7 +24,7 @@ This repository contains my solutions to various LeetCode problems.
 | 2022-09-08 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | Medium | [C(Naive)](./medium/807-Max-Increase-to-Keep-City-Skyline-Naive.c) | |
 | 2022-09-07 | 50 | [Pow(x,n)](https://leetcode.com/problems/powx-n/) | Medium | [C](./medium/50-Pow(x%2Cn).c) | |
 | 2022-09-07 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [C](./easy/206-Reverse-Linked-List.c) | |
-| 2022-09-06 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [C(Naive)](./medium/5-Longest-Palindromic-Substring-Slow.c) | |
+| 2022-09-06 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [C(Naive)](./medium/5-Longest-Palindromic-Substring-Naive.c) | |
 | 2022-09-06 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/) | Hard | [C(Naive)](./hard/4-Median-of-Two-Sorted-Arrays.c) | |
 | 2022-09-05 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python(Naive)](./easy/1-Two-Sum-Naive.py) <br> [Python(Better)](./easy/1-Two-Sum-Better.py) | |
 | 2022-09-05 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [C(Naive)](./medium/3-Longest-Substring-Without-Repeating-Characters-Naive.c) <br> [C(Better)](./medium/3-Longest-Substring-Without-Repeating-Characters-Better.c) | Sliding Window Technique |
