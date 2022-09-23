@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 31
-##### Easy: 21
+### Problems solved: 32
+##### Easy: 22
 ##### Medium: 9
 ##### Hard: 1
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
+| 2022-09-23 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [C++](./easy/1480-Running-Sum-of-1d-Array.cpp) <br> [Haskell](./easy/1480-Running=Sum-of-1d-Array.hs) | |
 | 2022-09-22 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Easy | [C++](./easy/2235-Add-Two-Integers.cpp) | |
 | 2022-09-21 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | Easy | [C++](./easy/1470-Shuffle-the-Array.cpp) | |
 | 2022-09-20 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [C++](./easy/70-Climbing-Stairs.cpp) | |
