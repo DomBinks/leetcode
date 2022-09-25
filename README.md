@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 33
-##### Easy: 22
+### Problems solved: 34
+##### Easy: 23
 ##### Medium: 10
 ##### Hard: 1
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
+| 2022-09-25 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | Easy | [C++](./easy/2413-Smallest-Even-Multiple.cpp) | |
 | 2022-09-24 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | [C++](./medium/6-Zigzag-Conversion.cpp) | |
 | 2022-09-23 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [C++](./easy/1480-Running-Sum-of-1d-Array.cpp) <br> [Haskell](./easy/1480-Running-Sum-of-1d-Array.hs) | |
 | 2022-09-22 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Easy | [C++](./easy/2235-Add-Two-Integers.cpp) | |
