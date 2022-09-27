@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 35
-##### Easy: 24
+### Problems solved: 36
+##### Easy: 25
 ##### Medium: 10
 ##### Hard: 1
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
+| 2022-09-27 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | Easy | [C++](./easy/Final-Value-of-Variable-After-Performing-Operations.cpp) | |
 | 2022-09-26 | 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | Easy | [Python](./easy/2114-Maximum-Number-of-Words-Found-in-Sentences.py) | |
 | 2022-09-25 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | Easy | [C++](./easy/2413-Smallest-Even-Multiple.cpp) | |
 | 2022-09-24 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | [C++](./medium/6-Zigzag-Conversion.cpp) | |
