@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 39
-##### Easy: 27
+### Problems solved: 40
+##### Easy: 28
 ##### Medium: 11
 ##### Hard: 1
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
+| 2022-10-01 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | Easy | [C++](./easy/1512-Number-of-Good-Paris.cpp) | |
 | 2022-09-30 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | Easy | [C++](./easy/1108-Defanging-an-IP-Address.cpp) | |
 | 2022-09-29 | 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | Medium | [C++](./medium/2181-Merge-Nodes-in-Between-Zeros.cpp) | |
 | 2022-09-28 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | Easy | [C++](./easy/1528-Shuffle-String.cpp) | |
