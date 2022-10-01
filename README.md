@@ -2,17 +2,18 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 38
-##### Easy: 26
+### Problems solved: 39
+##### Easy: 27
 ##### Medium: 11
 ##### Hard: 1
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
+| 2022-09-30 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | Easy | [C++](./easy/1108-Defanging-an-IP-Address.cpp) | |
 | 2022-09-29 | 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | Medium | [C++](./medium/2181-Merge-Nodes-in-Between-Zeros.cpp) | |
 | 2022-09-28 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | Easy | [C++](./easy/1528-Shuffle-String.cpp) | |
-| 2022-09-27 | 2011 | [Final Value of Variable After Performing Operations](h:wqttps://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | Easy | [C++](./easy/2011-Final-Value-of-Variable-After-Performing-Operations.cpp) | |
+| 2022-09-27 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | Easy | [C++](./easy/2011-Final-Value-of-Variable-After-Performing-Operations.cpp) | |
 | 2022-09-26 | 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | Easy | [Python](./easy/2114-Maximum-Number-of-Words-Found-in-Sentences.py) | |
 | 2022-09-25 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | Easy | [C++](./easy/2413-Smallest-Even-Multiple.cpp) | |
 | 2022-09-24 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | [C++](./medium/6-Zigzag-Conversion.cpp) | |
