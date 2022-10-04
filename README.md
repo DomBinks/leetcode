@@ -10,7 +10,7 @@ This repository contains my solutions to various LeetCode problems.
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
-| 2022-10-04 | 1733 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | Easy | [C++](./easy/1733-Count-Items-Matching-a-Rule.cpp) | |
+| 2022-10-04 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | Easy | [C++](./easy/1773-Count-Items-Matching-a-Rule.cpp) | |
 | 2022-10-03 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | [C++](./easy/1431-Kids-With-the-Greatest-Number-of-Candies.cpp) | |
 | 2022-10-02 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | Easy | [C++](./easy/2236-Root-Equals-Sum-of-Children.cpp) | |
 | 2022-10-01 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | Easy | [C++](./easy/1512-Number-of-Good-Pairs.cpp) | |
