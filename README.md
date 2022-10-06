@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 44
-##### Easy: 32
+### Problems solved: 45
+##### Easy: 33
 ##### Medium: 11
 ##### Hard: 1
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
+| 2022-10-06 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | Easy | [C++](./easy/1684-Count-the-Number-of-Consistent-Strings.cpp) | |
 | 2022-10-05 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Easy | [C++](./easy/938-Range-Sum-of-BST.cpp) | |
 | 2022-10-04 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | Easy | [C++](./easy/1773-Count-Items-Matching-a-Rule.cpp) | |
 | 2022-10-03 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | [C++](./easy/1431-Kids-With-the-Greatest-Number-of-Candies.cpp) | |
