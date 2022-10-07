@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 45
-##### Easy: 33
+### Problems solved: 46
+##### Easy: 34
 ##### Medium: 11
 ##### Hard: 1
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
+| 2022-10--07 | 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | Easy | [C++](./easy/1534-Count-Good-Triplets.cpp) | |
 | 2022-10-06 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | Easy | [C++](./easy/1684-Count-the-Number-of-Consistent-Strings.cpp) | |
 | 2022-10-05 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Easy | [C++](./easy/938-Range-Sum-of-BST.cpp) | |
 | 2022-10-04 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | Easy | [C++](./easy/1773-Count-Items-Matching-a-Rule.cpp) | |
