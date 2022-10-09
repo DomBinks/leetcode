@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 46
-##### Easy: 34
+### Problems solved: 47
+##### Easy: 35
 ##### Medium: 11
 ##### Hard: 1
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
+| 2022-10-09 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | Easy | [Python](./easy/1859-Sorting-the-Sentence.py) | |
 | 2022-10-08 | 2062 | [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/) | Easy | Unsolved | |
 | 2022-10-07 | 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | Easy | [C++](./easy/1534-Count-Good-Triplets.cpp) | |
 | 2022-10-06 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | Easy | [C++](./easy/1684-Count-the-Number-of-Consistent-Strings.cpp) | |
