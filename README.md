@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 47
-##### Easy: 35
+### Problems solved: 48
+##### Easy: 36
 ##### Medium: 11
 ##### Hard: 1
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
+| 2022-10-10 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy | [Python](./easy/2160-Minimum-Sum-of-Four-Digit-Number-After-Splitting-Digits.py) | |
 | 2022-10-09 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | Easy | [Python](./easy/1859-Sorting-the-Sentence.py) | |
 | 2022-10-08 | 2062 | [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/) | Easy | Unsolved | |
 | 2022-10-07 | 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | Easy | [C++](./easy/1534-Count-Good-Triplets.cpp) | |
