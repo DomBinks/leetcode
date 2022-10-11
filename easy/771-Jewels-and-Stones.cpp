@@ -2,7 +2,7 @@ class Solution {
 public:
     int numJewelsInStones(string jewels, string stones) {
         int out = 0;
-        // Store whether an ASCII value is a jewl
+        // Store whether an ASCII value is a jewel
         bool jewelStones[123];
         // Init the array
         for(int i = 0; i < 123; i++)
