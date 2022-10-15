@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 52
-##### Easy: 40
+### Problems solved: 53
+##### Easy: 41
 ##### Medium: 11
 ##### Hard: 1
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
+| 2022-10-15 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | Easy | [C++](./easy/1365-How-Many-Numbers-Are-Smaller-Than-the-Current-Number.cpp) | |
 | 2022-10-14 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | Easy | [C++](./easy/1486-XOR-Operation-in-an-Array.cpp) | |
 | 2022-10-13 | 2367 | [Number of Arithmetic Triples](https://leetcode.com/problems/number-of-arithmetic-triplets/) | Easy | [C++](./easy/2367-Number-of-Arithmetic-Triplets.cpp) | |
 | 2022-10-12 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | Easy | [C++](./easy/1603-Design-Parking-System.cpp) | |
