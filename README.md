@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 58
-##### Easy: 46
+### Problems solved: 59
+##### Easy: 47
 ##### Medium: 11
 ##### Hard: 1
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
+| 2022-10-21 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | [C++](./easy/1281-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer.cpp) | |
 | 2022-10-20 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | [C++](./easy/1929-Concatenation-of-Array.cpp) | |
 | 2022-10-19 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | Easy | [C++](./easy/1920-Build-Array-from-Permutation.cpp) | |
 | 2022-10-18 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | Easy | [SQL](./easy/1741-Find-Total-Time-Spent-by-Each-Employee.sql) | |
