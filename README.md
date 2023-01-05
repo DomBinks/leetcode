@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 59
-##### Easy: 47
+### Problems solved: 60
+##### Easy: 48
 ##### Medium: 11
 ##### Hard: 1
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
+| 2023-01-05 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy | [Python](./easy/125-Valid-Palindrome.py) | |
 | 2022-10-21 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | [C++](./easy/1281-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer.cpp) | |
 | 2022-10-20 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | [C++](./easy/1929-Concatenation-of-Array.cpp) | |
 | 2022-10-19 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | Easy | [C++](./easy/1920-Build-Array-from-Permutation.cpp) | |
