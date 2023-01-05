@@ -10,6 +10,7 @@ This repository contains my solutions to various LeetCode problems.
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
+| 2023-01-05 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | Unsolved | |
 | 2023-01-05 | 43 | [Multiply String](https://leetcode.com/problems/multiply-strings/) | Medium | [Python](./medium/43-Multiply-Strings.py) | |
 | 2023-01-05 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy | [Python](./easy/125-Valid-Palindrome.py) | |
 | 2022-10-21 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | [C++](./easy/1281-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer.cpp) | |
