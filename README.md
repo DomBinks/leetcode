@@ -10,6 +10,7 @@ This repository contains my solutions to various LeetCode problems.
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
+| 2023-01-06 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | [Python](./easy/205-Isomorphic-Strings.py) | |
 | 2023-01-05 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | Unsolved | |
 | 2023-01-05 | 43 | [Multiply String](https://leetcode.com/problems/multiply-strings/) | Medium | [Python](./medium/43-Multiply-Strings.py) | |
 | 2023-01-05 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy | [Python](./easy/125-Valid-Palindrome.py) | |
