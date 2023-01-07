@@ -10,6 +10,7 @@ This repository contains my solutions to various LeetCode problems.
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
+| 2023-01-07 | 1995 | [Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/) | Easy | [Python(Naive)](./easy/1995-Count-Special-Quadruplets-Naive.py) | |
 | 2023-01-06 | 1743 | [Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/description/) | Medium | Unsolved | |
 | 2023-01-06 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | [Python](./easy/205-Isomorphic-Strings.py) | |
 | 2023-01-05 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | Unsolved | |
