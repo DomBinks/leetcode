@@ -2,8 +2,8 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 61
-##### Easy: 48
+### Problems solved: 64
+##### Easy: 51
 ##### Medium: 12
 ##### Hard: 1
 <br>
