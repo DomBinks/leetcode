@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 64
+### Problems solved: 65
 ##### Easy: 51
-##### Medium: 12
+##### Medium: 13
 ##### Hard: 1
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
+| 2023-06-07 | 1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | Medium | [Python](./medium/1318-Minimum-Flips-to-Make-a-OR-b-Equal-to-c.py) | |
 | 2023-01-08 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [Python](./easy/344-Reverse-String.py) | |
 | 2023-01-07 | 1995 | [Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/) | Easy | [Python(Naive)](./easy/1995-Count-Special-Quadruplets-Naive.py) | |
 | 2023-01-06 | 1743 | [Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | Medium | Unsolved | |
