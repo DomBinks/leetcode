@@ -10,7 +10,7 @@ This repository contains my solutions to various LeetCode problems.
 
 | Date | Number | Name | Difficulty | Solution | Algorithms/Techniques |
 | ---- | ------ | ---- | ---------- | -------- | --------------------- |
-| 2023-06-13 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | [Python](./medium/2352-Equal-Row-and-Column-Pairs.py) | Hash map|
+| 2023-06-13 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | Medium | [Python](./medium/2352-Equal-Row-and-Column-Pairs.py) | Hash map|
 | 2023-06-07 | 1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | Medium | [Python](./medium/1318-Minimum-Flips-to-Make-a-OR-b-Equal-to-c.py) | |
 | 2023-01-08 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [Python](./easy/344-Reverse-String.py) | |
 | 2023-01-07 | 1995 | [Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/) | Easy | [Python(Naive)](./easy/1995-Count-Special-Quadruplets-Naive.py) | |
