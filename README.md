@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 67
-##### Easy: 51
+### Problems solved: 68
+##### Easy: 52
 ##### Medium: 15
 ##### Hard: 1
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
+| 2023-06-14 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | Easy | [Python](./easy/530-Minimum-Absolute-Difference-in-BST.py) | BST, DFS|
 | 2023-06-13 | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | [Python](./medium/701-Insert-into-a-Binary-Search-Tree.py) | BST |
 | 2023-06-13 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | Medium | [Python](./medium/2352-Equal-Row-and-Column-Pairs.py) | Hash map|
 | 2023-06-07 | 1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | Medium | [Python](./medium/1318-Minimum-Flips-to-Make-a-OR-b-Equal-to-c.py) | |
