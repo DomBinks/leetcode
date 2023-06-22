@@ -10,7 +10,7 @@ This repository contains my solutions to various LeetCode problems.
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
-| 2023-06-22 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) | Medium | [Python](./187-Repeated-DNA-Sequences.py) | Sliding window |
+| 2023-06-22 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) | Medium | [Python](./medium/187-Repeated-DNA-Sequences.py) | Sliding window |
 | 2023-06-22 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/) | Medium | [Python](./medium/1004-Max-Consecutive-Ones-III.py) | Sliding window |
 | 2023-06-22 | 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/description/) | Easy | [Python](./easy/2269-Find-the-K-Beauty-of-a-Number.py) | Sliding window |
 | 2023-06-22 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/) | Easy | [Python](./easy/1876-Substrings-of-Size-Three-with-Distinct-Characters.py) | Sliding window |
