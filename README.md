@@ -2,15 +2,18 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 70
-##### Easy: 53
-##### Medium: 16
+### Problems solved: 73
+##### Easy: 54
+##### Medium: 18
 ##### Hard: 1
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
-| 2023-06-22 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/) | Easy | [Python](./easy/1876-Substrings-of-Size-Three-with-Distinct-Characters.py) | Sliding Window |
+| 2023-06-22 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) | Medium | [Python](./187-Repeated-DNA-Sequences.py) | Sliding window |
+| 2023-06-22 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/) | Medium | [Python](./medium/1004-Max-Consecutive-Ones-III.py) | Sliding window |
+| 2023-06-22 | 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/description/) | Easy | [Python](./easy/2269-Find-the-K-Beauty-of-a-Number.py) | Sliding window |
+| 2023-06-22 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/) | Easy | [Python](./easy/1876-Substrings-of-Size-Three-with-Distinct-Characters.py) | Sliding window |
 | 2023-06-15 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Medium | [Python](./medium/1161-Maximum-Level-Sum-of-a-Binary-Tree.py) | DFS | 
 | 2023-06-14 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | Easy | [Python](./easy/530-Minimum-Absolute-Difference-in-BST.py) | BST, DFS |
 | 2023-06-13 | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | [Python](./medium/701-Insert-into-a-Binary-Search-Tree.py) | BST |
@@ -71,7 +74,7 @@ This repository contains my solutions to various LeetCode problems.
 | 2022-09-07 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [C](./easy/206-Reverse-Linked-List.c) | |
 | 2022-09-06 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [C(Naive)](./medium/5-Longest-Palindromic-Substring-Naive.c) | |
 | 2022-09-06 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/) | Hard | [C(Naive)](./hard/4-Median-of-Two-Sorted-Arrays.c) | |
-| 2022-09-05 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [C(Naive)](./medium/3-Longest-Substring-Without-Repeating-Characters-Naive.c) <br> [C(Better)](./medium/3-Longest-Substring-Without-Repeating-Characters-Better.c) | Sliding Window Technique |
+| 2022-09-05 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [C(Naive)](./medium/3-Longest-Substring-Without-Repeating-Characters-Naive.c) <br> [C(Better)](./medium/3-Longest-Substring-Without-Repeating-Characters-Better.c) | Sliding window |
 | 2022-09-04 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Python](./easy/66-Plus-One.py) <br> [Haskell](./easy/66-Plus-One.hs) | |
 | 2022-09-03 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Python](./easy/9-Palindrome-Number.py) <br> [Haskell](./easy/9-Palindrome-Number.hs) | |
 | 2022-09-02 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python(Naive)](./easy/1-Two-Sum-Naive.py) <br> [Python(Better)](./easy/1-Two-Sum-Better.py) | |
