@@ -10,11 +10,11 @@ This repository contains my solutions to various LeetCode problems.
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
-| 2023-06-22 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | Hard | [Python](./hard/30-Substring-with-Concatenation-of-All-Words.py) | Sliding window |
-| 2023-06-22 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) | Medium | [Python](./medium/187-Repeated-DNA-Sequences.py) | Sliding window |
-| 2023-06-22 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/) | Medium | [Python](./medium/1004-Max-Consecutive-Ones-III.py) | Sliding window |
-| 2023-06-22 | 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/description/) | Easy | [Python](./easy/2269-Find-the-K-Beauty-of-a-Number.py) | Sliding window |
-| 2023-06-22 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/) | Easy | [Python](./easy/1876-Substrings-of-Size-Three-with-Distinct-Characters.py) | Sliding window |
+| 2023-06-22 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard | [Python](./hard/30-Substring-with-Concatenation-of-All-Words.py) | Sliding window |
+| 2023-06-22 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | Medium | [Python](./medium/187-Repeated-DNA-Sequences.py) | Sliding window |
+| 2023-06-22 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | [Python](./medium/1004-Max-Consecutive-Ones-III.py) | Sliding window |
+| 2023-06-22 | 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | Easy | [Python](./easy/2269-Find-the-K-Beauty-of-a-Number.py) | Sliding window |
+| 2023-06-22 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | Easy | [Python](./easy/1876-Substrings-of-Size-Three-with-Distinct-Characters.py) | Sliding window |
 | 2023-06-15 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Medium | [Python](./medium/1161-Maximum-Level-Sum-of-a-Binary-Tree.py) | DFS | 
 | 2023-06-14 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | Easy | [Python](./easy/530-Minimum-Absolute-Difference-in-BST.py) | BST, DFS |
 | 2023-06-13 | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | [Python](./medium/701-Insert-into-a-Binary-Search-Tree.py) | BST |
