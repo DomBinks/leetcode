@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 69
-##### Easy: 52
+### Problems solved: 70
+##### Easy: 53
 ##### Medium: 16
 ##### Hard: 1
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
+| 2023-06-22 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/) | Easy | [Python](./easy/1876-Substrings-of-Size-Three-with-Distinct-Characters.py) | Sliding Window |
 | 2023-06-15 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Medium | [Python](./medium/1161-Maximum-Level-Sum-of-a-Binary-Tree.py) | DFS | 
 | 2023-06-14 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | Easy | [Python](./easy/530-Minimum-Absolute-Difference-in-BST.py) | BST, DFS |
 | 2023-06-13 | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | [Python](./medium/701-Insert-into-a-Binary-Search-Tree.py) | BST |
