@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 75
+### Problems solved: 76
 ##### Easy: 54
-##### Medium: 19
+##### Medium: 20
 ##### Hard: 2
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
+| 2023-07-04 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [Python](./medium/12-Integer-to-Roman.py) | |
 | 2023-07-04 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | Medium | [Python](./medium/137-Single-Number-II.py) | |
 | 2023-06-22 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard | [Python](./hard/30-Substring-with-Concatenation-of-All-Words.py) | Sliding window |
 | 2023-06-22 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | Medium | [Python](./medium/187-Repeated-DNA-Sequences.py) | Sliding window |
