@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 74
+### Problems solved: 75
 ##### Easy: 54
-##### Medium: 18
+##### Medium: 19
 ##### Hard: 2
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
+| 2023-07-04 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | Medium | [Python](./medium/137-Single-Number-II.py) | |
 | 2023-06-22 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard | [Python](./hard/30-Substring-with-Concatenation-of-All-Words.py) | Sliding window |
 | 2023-06-22 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | Medium | [Python](./medium/187-Repeated-DNA-Sequences.py) | Sliding window |
 | 2023-06-22 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | [Python](./medium/1004-Max-Consecutive-Ones-III.py) | Sliding window |
