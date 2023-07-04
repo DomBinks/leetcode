@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 77
+### Problems solved: 78
 ##### Easy: 54
-##### Medium: 21
+##### Medium: 22
 ##### Hard: 2
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
+| 2023-07-04 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | Medium | [Python](./medium/1020-Number-of-Enclaves) | Flood fill |
 | 2023-07-04 | 419 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | Medium | [Python](./medium/419-Battleships-in-a-Board.py) | Flood fill |
 | 2023-07-04 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [Python](./medium/12-Integer-to-Roman.py) | |
 | 2023-07-04 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | Medium | [Python](./medium/137-Single-Number-II.py) | |
