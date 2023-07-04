@@ -10,7 +10,7 @@ This repository contains my solutions to various LeetCode problems.
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
-| 2023-07-04 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | Medium | [Python](./medium/1020-Number-of-Enclaves) | Flood fill |
+| 2023-07-04 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | Medium | [Python](./medium/1020-Number-of-Enclaves.py) | Flood fill |
 | 2023-07-04 | 419 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | Medium | [Python](./medium/419-Battleships-in-a-Board.py) | Flood fill |
 | 2023-07-04 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [Python](./medium/12-Integer-to-Roman.py) | |
 | 2023-07-04 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | Medium | [Python](./medium/137-Single-Number-II.py) | |
