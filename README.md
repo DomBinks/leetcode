@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 76
+### Problems solved: 77
 ##### Easy: 54
-##### Medium: 20
+##### Medium: 21
 ##### Hard: 2
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
+| 2023-07-04 | 419 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | Medium | [Python](./medium/419-Battleships-in-a-Board.py) | Flood fill |
 | 2023-07-04 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [Python](./medium/12-Integer-to-Roman.py) | |
 | 2023-07-04 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | Medium | [Python](./medium/137-Single-Number-II.py) | |
 | 2023-06-22 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard | [Python](./hard/30-Substring-with-Concatenation-of-All-Words.py) | Sliding window |
