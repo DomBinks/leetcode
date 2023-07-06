@@ -2,14 +2,16 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 79
-##### Easy: 54
-##### Medium: 23
+### Problems solved: 81
+##### Easy: 55
+##### Medium: 24
 ##### Hard: 2
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
+| 2023-07-06 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | [C++](./medium/451-Sort-Characters-By-Frequency.cpp) | Priority queue |
+| 2023-07-06 | 2231 | [Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/) | Easy | [C++](./easy/2231-Largest-Number-After-Digit-Swaps-by-Parity.cpp) | Priority queue |
 | 2023-07-05 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | Medium | [Python](./medium/1493-Longest-Subarray-of-1's-After-Deleting-One-Element.py) | Sliding window |
 | 2023-07-04 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | Medium | [Python](./medium/1020-Number-of-Enclaves.py) | Flood fill |
 | 2023-07-04 | 419 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | Medium | [Python](./medium/419-Battleships-in-a-Board.py) | Flood fill |
@@ -23,7 +25,7 @@ This repository contains my solutions to various LeetCode problems.
 | 2023-06-15 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Medium | [Python](./medium/1161-Maximum-Level-Sum-of-a-Binary-Tree.py) | DFS | 
 | 2023-06-14 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | Easy | [Python](./easy/530-Minimum-Absolute-Difference-in-BST.py) | BST, DFS |
 | 2023-06-13 | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | [Python](./medium/701-Insert-into-a-Binary-Search-Tree.py) | BST |
-| 2023-06-13 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | Medium | [Python](./medium/2352-Equal-Row-and-Column-Pairs.py) | Hash map|
+| 2023-06-13 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | Medium | [Python](./medium/2352-Equal-Row-and-Column-Pairs.py) | Hash map |
 | 2023-06-07 | 1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | Medium | [Python](./medium/1318-Minimum-Flips-to-Make-a-OR-b-Equal-to-c.py) | |
 | 2023-01-08 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [Python](./easy/344-Reverse-String.py) | |
 | 2023-01-07 | 1995 | [Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/) | Easy | [Python(Naive)](./easy/1995-Count-Special-Quadruplets-Naive.py) | |
