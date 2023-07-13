@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 81
+### Problems solved: 82
 ##### Easy: 55
-##### Medium: 24
+##### Medium: 25
 ##### Hard: 2
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
+| 2023-07-13 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | [Python](./medium/207-Course-Schedule.py) | DFS |
 | 2023-07-06 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | [C++](./medium/451-Sort-Characters-By-Frequency.cpp) | Priority queue |
 | 2023-07-06 | 2231 | [Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/) | Easy | [C++](./easy/2231-Largest-Number-After-Digit-Swaps-by-Parity.cpp) | Priority queue |
 | 2023-07-05 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | Medium | [Python](./medium/1493-Longest-Subarray-of-1's-After-Deleting-One-Element.py) | Sliding window |
