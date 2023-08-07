@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 82
-##### Easy: 55
+### Problems solved: 83
+##### Easy: 56
 ##### Medium: 25
 ##### Hard: 2
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
+| 2023-08-07 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | Easy | [Python](./easy/1700-Number-of-Students-Unable-to-Eat-Lunch.py) | |
 | 2023-07-13 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | [Python](./medium/207-Course-Schedule.py) | DFS |
 | 2023-07-06 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | [C++](./medium/451-Sort-Characters-By-Frequency.cpp) | Priority queue |
 | 2023-07-06 | 2231 | [Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/) | Easy | [C++](./easy/2231-Largest-Number-After-Digit-Swaps-by-Parity.cpp) | Priority queue |
