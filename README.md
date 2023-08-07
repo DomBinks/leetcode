@@ -2,14 +2,18 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 83
-##### Easy: 56
-##### Medium: 25
+### Problems solved: 87
+##### Easy: 59
+##### Medium: 26
 ##### Hard: 2
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
+| 2023-08-07 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [Python](./easy/74-Search-a-2D-Matrix.py) | |
+| 2023-08-07 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | Easy | [Python](./easy/434-Number-of-Segments-in-a-String.py) | |
+| 2023-08-07 | 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | Easy | [Python](./easy/693-Binary-Number-with-Alternating-Bits.py) | |
+| 2023-08-07 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | Easy | [Python](./easy/709-To-Lower-Case.py) | |
 | 2023-08-07 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | Easy | [Python](./easy/1700-Number-of-Students-Unable-to-Eat-Lunch.py) | |
 | 2023-07-13 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | [Python](./medium/207-Course-Schedule.py) | DFS |
 | 2023-07-06 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | [C++](./medium/451-Sort-Characters-By-Frequency.cpp) | Priority queue |
