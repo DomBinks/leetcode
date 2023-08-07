@@ -2,15 +2,16 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 87
+### Problems solved: 88
 ##### Easy: 59
-##### Medium: 26
+##### Medium: 27
 ##### Hard: 2
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
-| 2023-08-07 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [Python](./easy/74-Search-a-2D-Matrix.py) | |
+| 2023-08-08 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [Python](./medium/22-Generating-Parentheses.py) | |
+| 2023-08-07 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [Python](./medium/74-Search-a-2D-Matrix.py) | |
 | 2023-08-07 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | Easy | [Python](./easy/434-Number-of-Segments-in-a-String.py) | |
 | 2023-08-07 | 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | Easy | [Python](./easy/693-Binary-Number-with-Alternating-Bits.py) | |
 | 2023-08-07 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | Easy | [Python](./easy/709-To-Lower-Case.py) | |
