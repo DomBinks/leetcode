@@ -2,14 +2,16 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 91
-##### Easy: 60
+### Problems solved: 93
+##### Easy: 62
 ##### Medium: 29
 ##### Hard: 2
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
+| 2023-08-13 | 1854 | [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) | Easy | [Python](./easy/1854-Maximum-Population-Year.py) | |
+| 2023-08-12 | 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | Easy | [Python](./easy/1952-Three-Divisors.py) | |
 | 2023-08-12 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | Easy | [Python](./easy/2119-A-Number-After-a-Double-Reversal.py) | |
 | 2023-08-08 | 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/) | Medium | [Python](./medium/2086-Minimum-Number-of-Food-Buckets-to-Feed-the-Hamsters.py) | |
 | 2023-08-08 | 2260 | [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | Medium | [Python](./medium/2260-Minimum-Consecutive-Cards-to-Pick-Up.py) | Hash map |
