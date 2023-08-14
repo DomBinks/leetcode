@@ -2,14 +2,21 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 93
-##### Easy: 62
-##### Medium: 29
+### Problems solved: 100
+##### Easy: 64
+##### Medium: 34
 ##### Hard: 2
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
+| 2023-08-14 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | [Python](./medium/128-Longest-Consecutive-Sequence.py) | Hash map |
+| 2023-08-14 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [Python](./medium/36-Valid-Sudoku.py) | Matrix, Hash map |
+| 2023-08-14 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [Python](./medium/238-Product-of-Array-Except-Self.py) | Prefix sum |
+| 2023-08-14 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Python](./medium/347-Top-K-Frequent-Elements.py) | Priority queue, Hash map |
+| 2023-08-14 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Python](./medium/40-Group-Anagrams.py) | Hash map |
+| 2023-08-14 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Python](./easy/242-Valid-Anagram.py) | Hash map |
+| 2023-08-14 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Python](./easy/217-Contains-Duplicate.py) | Hash map |
 | 2023-08-13 | 1854 | [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) | Easy | [Python](./easy/1854-Maximum-Population-Year.py) | |
 | 2023-08-12 | 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | Easy | [Python](./easy/1952-Three-Divisors.py) | |
 | 2023-08-12 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | Easy | [Python](./easy/2119-A-Number-After-a-Double-Reversal.py) | |
