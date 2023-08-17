@@ -2,16 +2,19 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 103
-##### Easy: 67
+### Problems solved: 106
+##### Easy: 70
 ##### Medium: 34
 ##### Hard: 2
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
+| 2023-08-17 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy | [Python](./easy/278-First-Bad-Version.py) | | 
+| 2023-08-17 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | [Python](./easy/509-Fibonacci-Number.py) | |
+| 2023-08-17 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | Easy | [Python](./easy/696-Count-Binary-Substrings.py) | |
 | 2023-08-16 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | Easy | [Python](./easy/599-Minimum-Index-Sum-of-Two-Lists.py) | Hash map |
-| 2023-08-16 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | Easy | [Python](./easy/598-Range-Addition.py) | |
+| 2023-08-16 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | Easy | [Python](./easy/598-Range-Addition-II.py) | |
 | 2023-08-16 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [Python](./easy/338-Counting-Bits.py) | List comprehension |
 | 2023-08-14 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | [Python](./medium/128-Longest-Consecutive-Sequence.py) | Hash map |
 | 2023-08-14 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [Python](./medium/36-Valid-Sudoku.py) | Matrix, Hash map |
