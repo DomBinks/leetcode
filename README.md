@@ -2,14 +2,16 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 107
-##### Easy: 70
+### Problems solved: 109
+##### Easy: 72
 ##### Medium: 35
 ##### Hard: 2
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
+| 2023-08-21 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | Easy | [Python](./easy/917-Reverse-Only-Letters.py) | |
+| 2023-08-21 | 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | Easy | [Python](./easy/884-Uncommon-Words-from-Two-Sentences.py) | Hash map, List comprehension |
 | 2023-08-18 | 2342 | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium | [Python](./medium/2342-Max-Sum-of-a-Pair-With-Equal-Sum-of-Digits.py) | Hash map |
 | 2023-08-17 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy | [Python](./easy/278-First-Bad-Version.py) | | 
 | 2023-08-17 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | [Python](./easy/509-Fibonacci-Number.py) | |
