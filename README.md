@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 110
+### Problems solved: 111
 ##### Easy: 72
-##### Medium: 36
+##### Medium: 37
 ##### Hard: 2
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
+| 2023-08-27 | 2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | Medium | [Python](./medium/2131-Longest-Palindrome-by-Concatenating-Two-Letter-Words.py) | Hash map |
 | 2023-08-23 | 1451 | [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/) | Medium | [Python](./medium/1451-Rearrange-Words-in-a-Sentence.py) | Hash map, Sorting |
 | 2023-08-21 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | Easy | [Python](./easy/917-Reverse-Only-Letters.py) | |
 | 2023-08-21 | 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | Easy | [Python](./easy/884-Uncommon-Words-from-Two-Sentences.py) | Hash map, List comprehension |
