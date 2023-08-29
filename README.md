@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 111
+### Problems solved: 112
 ##### Easy: 72
-##### Medium: 37
+##### Medium: 38
 ##### Hard: 2
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
+| 2023-08-29 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | [Python](./medium/739-Daily-Temperatures.py) | Stack |
 | 2023-08-27 | 2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | Medium | [Python](./medium/2131-Longest-Palindrome-by-Concatenating-Two-Letter-Words.py) | Hash map |
 | 2023-08-23 | 1451 | [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/) | Medium | [Python](./medium/1451-Rearrange-Words-in-a-Sentence.py) | Hash map, Sorting |
 | 2023-08-21 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | Easy | [Python](./easy/917-Reverse-Only-Letters.py) | |
@@ -105,7 +106,7 @@ This repository contains my solutions to various LeetCode problems.
 | 2022-09-13 | 393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | Medium | [C](./medium/393-UTF-8-Validation.c) | |
 | 2022-09-12 | 948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | Medium | [Python(Naive)](./medium/948-Bag-of-Tokens-Naive.py) | |
 | 2022-09-11 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | Easy | [C](./easy/1221-Split-a-String-in-Balanced-Strings.c) <br> [Haskell](./easy/1221-Split-a-String-in-Balanced-Strings.hs) | |
-| 2022-09-10 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Python](./easy/20-Valid-Parentheses.py) | |
+| 2022-09-10 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Python](./easy/20-Valid-Parentheses.py) | Stack |
 | 2022-09-09 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/) | Easy | [Python](./easy/2325-Decode-the-Message.py) | |
 | 2022-09-08 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | Medium | [C(Naive)](./medium/807-Max-Increase-to-Keep-City-Skyline-Naive.c) | |
 | 2022-09-07 | 50 | [Pow(x,n)](https://leetcode.com/problems/powx-n/) | Medium | [C](./medium/50-Pow(x%2Cn).c) | |
