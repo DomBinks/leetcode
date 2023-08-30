@@ -2,14 +2,15 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 112
-##### Easy: 72
+### Problems solved: 113
+##### Easy: 73
 ##### Medium: 38
 ##### Hard: 2
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
+| 2023-08-30 | 1941 | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) | Easy | [Python](./easy/1941-Check-if-All-Characters-Have-Equal-Number-of-Occurrences.py) | Sorting |
 | 2023-08-29 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | [Python](./medium/739-Daily-Temperatures.py) | Stack |
 | 2023-08-27 | 2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | Medium | [Python](./medium/2131-Longest-Palindrome-by-Concatenating-Two-Letter-Words.py) | Hash map |
 | 2023-08-23 | 1451 | [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/) | Medium | [Python](./medium/1451-Rearrange-Words-in-a-Sentence.py) | Hash map, Sorting |
