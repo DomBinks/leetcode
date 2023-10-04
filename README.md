@@ -2,14 +2,16 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 113
+### Problems solved: 115
 ##### Easy: 73
-##### Medium: 38
+##### Medium: 40
 ##### Hard: 2
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
+| 2023-10-04 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [Python](./medium/150-Evaluate-Reverse-Polish-Notation.py) | Recursion, Stack |
+| 2023-10-04 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | [Python](./medium/155-Min-Stack.py) | Stack |
 | 2023-08-30 | 1941 | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) | Easy | [Python](./easy/1941-Check-if-All-Characters-Have-Equal-Number-of-Occurrences.py) | Sorting |
 | 2023-08-29 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | [Python](./medium/739-Daily-Temperatures.py) | Stack |
 | 2023-08-27 | 2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | Medium | [Python](./medium/2131-Longest-Palindrome-by-Concatenating-Two-Letter-Words.py) | Hash map |
