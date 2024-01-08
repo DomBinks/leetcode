@@ -2,14 +2,16 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 115
-##### Easy: 73
+### Problems solved: 117
+##### Easy: 75
 ##### Medium: 40
 ##### Hard: 2
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
+| 2024-01-08 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [Python](./easy-704-Binary-Search.py) | Binary search
+| 2024-01-08 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [Python](./easy/141-Linked-List-Cycle.py) | Linked list
 | 2023-10-04 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [Python](./medium/150-Evaluate-Reverse-Polish-Notation.py) | Recursion, Stack |
 | 2023-10-04 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | [Python](./medium/155-Min-Stack.py) | Stack |
 | 2023-08-30 | 1941 | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) | Easy | [Python](./easy/1941-Check-if-All-Characters-Have-Equal-Number-of-Occurrences.py) | Sorting |
