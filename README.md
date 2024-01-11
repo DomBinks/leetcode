@@ -2,15 +2,16 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 117
-##### Easy: 75
+### Problems solved: 118
+##### Easy: 76
 ##### Medium: 40
 ##### Hard: 2
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
-| 2024-01-08 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [Python](./easy-704-Binary-Search.py) | Binary search
+| 2024-01-11 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./easy/121-Best-Time-to-Buy-and-Sell-Stock.py) | Sliding window
+| 2024-01-08 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [Python](./easy/704-Binary-Search.py) | Binary search
 | 2024-01-08 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [Python](./easy/141-Linked-List-Cycle.py) | Linked list
 | 2023-10-04 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [Python](./medium/150-Evaluate-Reverse-Polish-Notation.py) | Recursion, Stack |
 | 2023-10-04 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | [Python](./medium/155-Min-Stack.py) | Stack |
@@ -118,7 +119,7 @@ This repository contains my solutions to various LeetCode problems.
 | 2022-09-07 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [C](./easy/206-Reverse-Linked-List.c) | |
 | 2022-09-06 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [C(Naive)](./medium/5-Longest-Palindromic-Substring-Naive.c) | |
 | 2022-09-06 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/) | Hard | [C(Naive)](./hard/4-Median-of-Two-Sorted-Arrays.c) | |
-| 2022-09-05 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [C(Naive)](./medium/3-Longest-Substring-Without-Repeating-Characters-Naive.c) <br> [C(Better)](./medium/3-Longest-Substring-Without-Repeating-Characters-Better.c) | Sliding window |
+| 2022-09-05 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [C(Naive)](./medium/3-Longest-Substring-Without-Repeating-Characters-Naive.c) <br> [C(Better)](./medium/3-Longest-Substring-Without-Repeating-Characters-Better.c) [Python](./medium/3-Longest-Substring-Without-Repeating-Characters.py) | Sliding window |
 | 2022-09-04 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Python](./easy/66-Plus-One.py) <br> [Haskell](./easy/66-Plus-One.hs) | |
 | 2022-09-03 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Python](./easy/9-Palindrome-Number.py) <br> [Haskell](./easy/9-Palindrome-Number.hs) | |
 | 2022-09-02 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python(Naive)](./easy/1-Two-Sum-Naive.py) <br> [Python(Better)](./easy/1-Two-Sum-Better.py) | |
