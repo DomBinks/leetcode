@@ -2,15 +2,16 @@
 This repository contains my solutions to various LeetCode problems.
 <br>[Link to my account (DomBinks)](https://leetcode.com/DomBinks/)<br>
 <br>
-### Problems solved: 118
-##### Easy: 76
-##### Medium: 40
+### Problems solved: 121
+##### Easy: 78
+##### Medium: 41
 ##### Hard: 2
 <br>
 
 | Date | Number | Name | Difficulty | Solution | Notes |
 | ---- | ------ | ---- | ---------- | -------- | ----- |
-| 2024-01-11 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./easy/121-Best-Time-to-Buy-and-Sell-Stock.py) | Sliding window
+| 2024-01-30 | 2154 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) | Easy | [Python](./easy/2154-Keep-Multiplying-Found-Values-by-Two.py) | Set
+| 2024-01-11 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Python](./easy/121-Best-Time-to-Buy-and-Sell-Stock.py) | Sliding window
 | 2024-01-08 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [Python](./easy/704-Binary-Search.py) | Binary search
 | 2024-01-08 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [Python](./easy/141-Linked-List-Cycle.py) | Linked list
 | 2023-10-04 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [Python](./medium/150-Evaluate-Reverse-Polish-Notation.py) | Recursion, Stack |
